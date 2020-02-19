@@ -1,1 +1,36 @@
 /* Add your CSS code here */
+* {
+	    font-family: Helvetica, Arial, sans-serif;
+	    max-width: 1000px;
+	    margin: auto;
+	
+	  }
+	
+	body {
+	      min-width: 500px;
+	      
+	  }
+	
+	  .profileBody {
+	    display: inline-block;
+	    background-color: white;
+	    margin-top: 6px;
+	    margin-left: 55px;
+	   
+	  }
+	  h1{
+	      
+	    color:black;
+	   
+	  }
+	
+	  .border{
+	    width: 500px;
+	    padding: 5px;
+	    
+	    
+	    margin: 0;
+	    
+	    
+	  }
+
