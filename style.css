@@ -7,16 +7,20 @@
 	  }
 	
 	body {
-	      min-width: 500px;
+		  min-width: 500px;
+		  background-color: #e0eeee;
+		   font-size: 15px;
 	      
 	  }
 	
 	  .profileBody {
-	    display: inline-block;
-	    background-color: white;
-	    margin-top: 6px;
-	    margin-left: 55px;
-	   
+		display: inline-block;
+		background-color: white;
+		margin-top: 6px;
+		margin-left: 55px;
+		width: 75%;
+		height: 590px;
+	  
 	  }
 	  h1{
 	      
